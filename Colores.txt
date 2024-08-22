@@ -3,3 +3,5 @@ azul
 blanco
 rojo
 amarillo
+negro
+azul
